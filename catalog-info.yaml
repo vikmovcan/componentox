@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "componentox"
+spec:
+  type: service
+  owner: vikmovcan
+  lifecycle: experimental
